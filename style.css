@@ -1,0 +1,21 @@
+
+h1 {font-size: 300%; color: rgba(0, 0, 0, 0.765);text-align: center;}
+h1 {margin-top: 20px;} 
+h1 {border: solid 2px rgb(241, 241, 240);}
+h2 {font-size: 200%; color:  rgb(65, 62, 122);text-align: right;}
+p {font-size: 100%; color:  rgb(164, 5, 5);text-align: right;}
+h3 {font-size: 200%; color:  rgb(32, 166, 8);text-align: center;}
+h4 {font-size: 200%; color:  rgb(235, 72, 8);text-align: right;}
+a {font-size: 100%; text-align: center; color: rgb(226, 43, 165);}
+h5 {font-size: 200%; color:  rgb(0, 0, 0); text-align: center;}
+#im1 {width: 32%;}
+#im1 {margin-top: 30px;}
+#im1 {margin-right: 34%;}
+#im2 {width: 32%;}
+#im2 {margin-right: 34%;}
+#im3 {width: 32%;}
+#im3 {margin-right: 34%;}
+#im4 {width: 25%;}
+#im4 {margin-left: 37%;}
+#im5 {width: 32%;}
+#im5 {margin-left: 34%;}
